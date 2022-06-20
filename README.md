@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **React**
 
+- 👩‍🎓 Looking forward to engage in a computer science postgraduate course
+
 - 📫 How to reach me **jazznarain27@gmail.com**
 
 - ⚡ Fun fact **The funniest person you'll ever encounter**
