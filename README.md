@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yeshna 👩💻 </h1>
 <h3 align="center">A passionate full-stack developer</h3>
+<img src="https://i.pinimg.com/originals/a7/2b/1a/a72b1aa94154e5ce6a1e1efaed96e424.jpg" alt="Lamp" width="300" height="300">
 
 - 🔭 I’m currently working on [Matchable](https://www.matchable.shop/)
 
